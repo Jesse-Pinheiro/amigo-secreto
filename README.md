@@ -1,6 +1,10 @@
 <h1 align="center"> Projeto Amigo Secreto </h1>
+
 # Resumo do projeto
+
 Um sistema simples para inscrição e sorteio de participantes para um Amigo Secreto
+
+
 ## 🔨 Funcionalidades do projeto
 
 - `Funcionalidade 1` `Cadastro dos participantes`: O sistema solicita o nome do participante.
@@ -13,5 +17,9 @@ Um sistema simples para inscrição e sorteio de participantes para um Amigo Sec
 - ``HTML``
 - ``CSS``
 
+
 ## 📁 Acesso ao projeto
+
+[Veja o projeto final do curso em funcionamento](https://jesse-pinheiro.github.io/amigo-secreto/).
+
 Neste repositório você tem acesso a todo o material produzido.
